@@ -5,18 +5,16 @@
 - **Ensured that saved posts are saved in the same order**
    - This is the only reason i delved into this script, I just couldnt overlook it
 - **Added New functionality to list posts, unsave posts and seperately subscribe**
-   - Reddit as protection against bots bars you to follow other users for 3,7 and 21 days (You can follow a few after 3 days of account creation, most after 7 and all after 21 is what i understood, it could also be related to Karma)
+   - Reddit as protection against bots bars you from following other users for 3,7 and 21 days (You can follow a few after 3 days of account creation, most after 7 and all after 21 is what i understood or it could also be related to Karma)
    - Which is why i created another function just to subscribe, so you dont have to sync just everything. The other functions are if you also need to mess around
 - **Remove MFA**
    - Considerably sped up my workflow
 
-I would like to thank natan lao for this wonderful script, really saved me a world of trouble and i am truly grateful for it. I am also impressed by how clean the UI and performance of the script is.
+I would like to thank Natan Lao for this wonderful script, really saved me a world of trouble and i am truly grateful for it. I am also impressed by how clean the UI and performance of the script is.
 
-**Thank you**
+### <p align="center"><strong>Thank you</strong></p>
 
-<center>
-======================================================================================================
-</center>
+
 
 ## README (Original)
 
